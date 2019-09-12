@@ -2,7 +2,7 @@ import sys
 import os
 import re
 
-file_links_to_open = open('links_WIE.txt', 'r');
+file_links_to_open = open('links.txt', 'r');
 
 def main():
 
